@@ -2,6 +2,7 @@ name: 'greyson  '
 favicon: null
 layout_spectrum: 0.27262556506320834
 typography_spectrum: 0.5464946082793176
+title: greyson
 cta:
   domain: null
   bucket: null
