@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[greyson]]></title>
-        <description><![CDATA[greyson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Hello Grey]]></title>
+        <description><![CDATA[Hello Grey]]></description>
+        <link>https://thegrid.ai/greyson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 20:06:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Dec 2015 19:03:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/greyson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fall 2015 Tablescape]]></title>
+            <description><![CDATA[<article><h1>Fall 2015 Tablescape</h1><p>this is what my fall tables cape descriptions will look like, short nd sweet and savory, too!</p></article>]]></description>
+            <link>https://thegrid.ai/greyson/fall-2015-tablescape/index.html</link>
+            <guid isPermaLink="false">b23a5ef2-aa05-4759-9a52-957cba0450a3</guid>
+            <pubDate>Fri, 18 Dec 2015 19:02:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sample draft for jasmin tablescape]]></title>
             <description><![CDATA[<article><h1>Sample draft for jasmin tablescape</h1><p>this is where i am writing about home design, lifestyle, and togetherness, in blog form.</p></article>]]></description>
-            <link>undefinedsample-draft-for-jasmin-tablescape/index.html</link>
+            <link>https://thegrid.ai/greyson/sample-draft-for-jasmin-tablescape/index.html</link>
             <guid isPermaLink="false">34c3f7eb-b77b-4aa3-8975-dd6a3eb6bdbc</guid>
             <pubDate>Tue, 15 Dec 2015 20:06:10 GMT</pubDate>
         </item>
