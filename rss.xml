@@ -4,8 +4,15 @@
         <description><![CDATA[Hello Grey]]></description>
         <link>https://thegrid.ai/greyson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 19:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 19:04:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/greyson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Thesis a star post]]></title>
+            <description><![CDATA[<article><h1>Thesis a star post</h1><p>I want this one to have a star to see here it goes</p></article>]]></description>
+            <link>https://thegrid.ai/greyson/thesis-a-star-post/index.html</link>
+            <guid isPermaLink="false">e2d95892-5150-499c-962c-e077f1e4c384</guid>
+            <pubDate>Fri, 18 Dec 2015 19:04:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fall 2015 Tablescape]]></title>
             <description><![CDATA[<article><h1>Fall 2015 Tablescape</h1><p>this is what my fall tables cape descriptions will look like, short nd sweet and savory, too!</p></article>]]></description>
